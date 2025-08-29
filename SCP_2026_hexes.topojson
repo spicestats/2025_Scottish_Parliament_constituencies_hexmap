@@ -1,0 +1,818 @@
+{
+  "type": "Topology",
+  "arcs": [[[839, 242], [0, -161]], [[839, 81], [-140, -81], [-140, 81], [0, 161], [140, 81]], [[699, 323], [140, -81]], [[1119, 242], [0, -161]], [[1119, 81], [-140, -81], [-140, 81]], [[839, 242], [140, 81]], [[979, 323], [140, -81]], [[1399, 242], [0, -161], [-140, -81], [-140, 81]], [[1119, 242], [140, 81]], [[1259, 323], [140, -81]], [[979, 485], [0, -162]], [[699, 323], [0, 162], [140, 80]], [[839, 565], [140, -80]], [[1259, 485], [0, -162]], [[979, 485], [140, 80]], [[1119, 565], [140, -80]], [[1539, 485], [0, -162]], [[1539, 323], [-140, -81]], [[1259, 485], [140, 80]], [[1399, 565], [140, -80]], [[1819, 485], [0, -162], [-140, -81], [-140, 81]], [[1539, 485], [140, 80]], [[1679, 565], [140, -80]], [[1119, 727], [0, -162]], [[839, 565], [0, 162]], [[839, 727], [140, 80]], [[979, 807], [140, -80]], [[1399, 727], [0, -162]], [[1119, 727], [140, 80]], [[1259, 807], [140, -80]], [[1679, 727], [0, -162]], [[1399, 727], [140, 80]], [[1539, 807], [140, -80]], [[1959, 727], [0, -162], [-140, -80]], [[1679, 727], [140, 80]], [[1819, 807], [140, -80]], [[419, 969], [0, -162]], [[419, 807], [-140, -80], [-139, 80], [0, 162], [139, 81]], [[279, 1050], [140, -81]], [[699, 969], [0, -162]], [[699, 807], [-140, -80], [-140, 80]], [[419, 969], [140, 81]], [[559, 1050], [140, -81]], [[979, 969], [0, -162]], [[839, 727], [-140, 80]], [[699, 969], [140, 81]], [[839, 1050], [140, -81]], [[1259, 969], [0, -162]], [[979, 969], [140, 81]], [[1119, 1050], [140, -81]], [[1539, 969], [0, -162]], [[1259, 969], [140, 81]], [[1399, 1050], [140, -81]], [[1819, 969], [0, -162]], [[1539, 969], [140, 81]], [[1679, 1050], [140, -81]], [[1819, 969], [140, 81]], [[1959, 1050], [140, -81], [0, -162], [-140, -80]], [[559, 1211], [0, -161]], [[279, 1050], [0, 161]], [[279, 1211], [140, 81]], [[419, 1292], [140, -81]], [[839, 1211], [0, -161]], [[559, 1211], [140, 81]], [[699, 1292], [140, -81]], [[1119, 1211], [0, -161]], [[839, 1211], [140, 81]], [[979, 1292], [140, -81]], [[1399, 1211], [0, -161]], [[1119, 1211], [140, 81]], [[1259, 1292], [140, -81]], [[1679, 1211], [0, -161]], [[1399, 1211], [140, 81]], [[1539, 1292], [140, -81]], [[1959, 1211], [0, -161]], [[1679, 1211], [140, 81]], [[1819, 1292], [140, -81]], [[419, 1453], [0, -161]], [[279, 1211], [-139, 81], [0, 161], [139, 81]], [[279, 1534], [140, -81]], [[699, 1453], [0, -161]], [[419, 1453], [140, 81]], [[559, 1534], [140, -81]], [[979, 1453], [0, -161]], [[699, 1453], [140, 81]], [[839, 1534], [140, -81]], [[1259, 1453], [0, -161]], [[979, 1453], [140, 81]], [[1119, 1534], [140, -81]], [[1539, 1453], [0, -161]], [[1259, 1453], [140, 81]], [[1399, 1534], [140, -81]], [[1819, 1453], [0, -161]], [[1539, 1453], [140, 81]], [[1679, 1534], [140, -81]], [[2099, 1453], [0, -161], [-140, -81]], [[1819, 1453], [140, 81]], [[1959, 1534], [140, -81]], [[559, 1695], [0, -161]], [[279, 1534], [0, 161]], [[279, 1695], [140, 81]], [[419, 1776], [140, -81]], [[839, 1695], [0, -161]], [[559, 1695], [140, 81]], [[699, 1776], [140, -81]], [[1119, 1695], [0, -161]], [[839, 1695], [140, 81]], [[979, 1776], [140, -81]], [[1399, 1695], [0, -161]], [[1119, 1695], [140, 81]], [[1259, 1776], [140, -81]], [[1679, 1695], [0, -161]], [[1399, 1695], [140, 81]], [[1539, 1776], [140, -81]], [[1959, 1695], [0, -161]], [[1679, 1695], [140, 81]], [[1819, 1776], [140, -81]], [[2239, 1695], [0, -161], [-140, -81]], [[1959, 1695], [140, 81]], [[2099, 1776], [140, -81]], [[419, 1938], [0, -162]], [[279, 1695], [-139, 81], [0, 162], [139, 80]], [[279, 2018], [140, -80]], [[699, 1938], [0, -162]], [[419, 1938], [140, 80]], [[559, 2018], [140, -80]], [[979, 1938], [0, -162]], [[699, 1938], [140, 80]], [[839, 2018], [140, -80]], [[1259, 1938], [0, -162]], [[979, 1938], [140, 80]], [[1119, 2018], [140, -80]], [[1539, 1938], [0, -162]], [[1259, 1938], [140, 80]], [[1399, 2018], [140, -80]], [[1819, 1938], [0, -162]], [[1539, 1938], [140, 80]], [[1679, 2018], [140, -80]], [[2099, 1938], [0, -162]], [[1819, 1938], [140, 80]], [[1959, 2018], [140, -80]], [[2379, 1938], [0, -162], [-140, -81]], [[2099, 1938], [140, 80]], [[2239, 2018], [140, -80]], [[559, 2180], [0, -162]], [[279, 2018], [0, 162], [140, 81]], [[419, 2261], [140, -81]], [[839, 2180], [0, -162]], [[559, 2180], [140, 81]], [[699, 2261], [140, -81]], [[1119, 2180], [0, -162]], [[839, 2180], [140, 81]], [[979, 2261], [140, -81]], [[1399, 2180], [0, -162]], [[1119, 2180], [140, 81]], [[1259, 2261], [140, -81]], [[1679, 2180], [0, -162]], [[1399, 2180], [140, 81]], [[1539, 2261], [140, -81]], [[1959, 2180], [0, -162]], [[1679, 2180], [140, 81]], [[1819, 2261], [140, -81]], [[2239, 2180], [0, -162]], [[1959, 2180], [140, 81]], [[2099, 2261], [140, -81]], [[2239, 2180], [140, 81]], [[2379, 2261], [140, -81], [0, -162], [-140, -80]], [[699, 2422], [0, -161]], [[419, 2261], [0, 161], [140, 81], [140, -81]], [[979, 2422], [0, -161]], [[699, 2422], [140, 81]], [[839, 2503], [140, -81]], [[1259, 2422], [0, -161]], [[979, 2422], [140, 81]], [[1119, 2503], [140, -81]], [[1539, 2422], [0, -161]], [[1259, 2422], [140, 81]], [[1399, 2503], [140, -81]], [[1819, 2422], [0, -161]], [[1539, 2422], [140, 81]], [[1679, 2503], [140, -81]], [[2099, 2422], [0, -161]], [[1819, 2422], [140, 81], [140, -81]], [[2099, 2422], [140, 81], [140, -81], [0, -161]], [[279, 2664], [0, -161], [-139, -81], [-140, 81], [0, 161], [140, 81], [139, -81]], [[1119, 2664], [0, -161]], [[839, 2503], [0, 161], [140, 81]], [[979, 2745], [140, -81]], [[1399, 2664], [0, -161]], [[1119, 2664], [140, 81]], [[1259, 2745], [140, -81]], [[1679, 2664], [0, -161]], [[1399, 2664], [140, 81]], [[1539, 2745], [140, -81]], [[1259, 2906], [0, -161]], [[979, 2745], [0, 161], [140, 81]], [[1119, 2987], [140, -81]], [[1539, 2906], [0, -161]], [[1259, 2906], [140, 81]], [[1399, 2987], [140, -81]], [[1819, 2906], [0, -161], [-140, -81]], [[1539, 2906], [140, 81]], [[1679, 2987], [140, -81]], [[1399, 3148], [0, -161]], [[1119, 2987], [0, 161], [140, 81], [140, -81]], [[1679, 3148], [0, -161]], [[1399, 3148], [140, 81], [140, -81]], [[1679, 3148], [140, 81], [140, -81], [0, -161], [-140, -81]], [[2379, 3391], [0, -162], [-140, -81], [-140, 81], [0, 162], [140, 80], [140, -80]], [[2938, 4359], [0, -161], [-140, -81], [-139, 81], [0, 161], [139, 81], [140, -81]]],
+  "transform": {
+    "scale": [0.000009999999999999999, 0.00001],
+    "translate": [0.03531, -0.0444]
+  },
+  "objects": {
+    "New_SCP_hexes": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "arcs": [[0, 1, 2]],
+          "type": "Polygon",
+          "properties": {
+            "q": 2,
+            "r": 0,
+            "id": "Carrick, Cumnock and Doon Valley",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[3, 4, -1, 5, 6]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 0,
+            "id": "Galloway and West Dumfries",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[7, -4, 8, 9]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 0,
+            "id": "Clydesdale",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[10, -6, -3, 11, 12]],
+          "type": "Polygon",
+          "properties": {
+            "q": 2,
+            "r": 1,
+            "id": "Cunninghame South",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[13, -9, -7, -11, 14, 15]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 1,
+            "id": "Ayr",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[16, 17, -10, -14, 18, 19]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 1,
+            "id": "Midlothian South, Tweeddale and Lauderdale",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[20, -17, 21, 22]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 1,
+            "id": "Dumfriesshire",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[23, -15, -13, 24, 25, 26]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 2,
+            "id": "Cunninghame North",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[27, -19, -16, -24, 28, 29]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 2,
+            "id": "Motherwell and Wishaw",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[30, -22, -20, -28, 31, 32]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 2,
+            "id": "Midlothian North",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[33, -23, -31, 34, 35]],
+          "type": "Polygon",
+          "properties": {
+            "q": 6,
+            "r": 2,
+            "id": "Ettrick, Roxburgh and Berwickshire",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[36, 37, 38]],
+          "type": "Polygon",
+          "properties": {
+            "q": 0,
+            "r": 3,
+            "id": "Argyll and Bute",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[39, 40, -37, 41, 42]],
+          "type": "Polygon",
+          "properties": {
+            "q": 1,
+            "r": 3,
+            "id": "Inverclyde",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[43, -26, 44, -40, 45, 46]],
+          "type": "Polygon",
+          "properties": {
+            "q": 2,
+            "r": 3,
+            "id": "Renfrewshire West and Levern Valley",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[47, -29, -27, -44, 48, 49]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 3,
+            "id": "Kilmarnock and Irvine Valley",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[50, -32, -30, -48, 51, 52]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 3,
+            "id": "Edinburgh North Eastern and Leith",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[53, -35, -33, -51, 54, 55]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 3,
+            "id": "Edinburgh Eastern, Musselburgh and Tranent",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[-36, -54, 56, 57]],
+          "type": "Polygon",
+          "properties": {
+            "q": 6,
+            "r": 3,
+            "id": "East Lothian Coast and Lammermuirs",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[58, -42, -39, 59, 60, 61]],
+          "type": "Polygon",
+          "properties": {
+            "q": 1,
+            "r": 4,
+            "id": "Paisley",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[62, -46, -43, -59, 63, 64]],
+          "type": "Polygon",
+          "properties": {
+            "q": 2,
+            "r": 4,
+            "id": "Eastwood",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[65, -49, -47, -63, 66, 67]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 4,
+            "id": "East Kilbride",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[68, -52, -50, -66, 69, 70]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 4,
+            "id": "Edinburgh Southern",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[71, -55, -53, -69, 72, 73]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 4,
+            "id": "Edinburgh Central",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[74, -57, -56, -72, 75, 76]],
+          "type": "Polygon",
+          "properties": {
+            "q": 6,
+            "r": 4,
+            "id": "Kirkcaldy",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[77, -61, 78, 79]],
+          "type": "Polygon",
+          "properties": {
+            "q": 0,
+            "r": 5,
+            "id": "Renfrewshire North and Cardonald",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[80, -64, -62, -78, 81, 82]],
+          "type": "Polygon",
+          "properties": {
+            "q": 1,
+            "r": 5,
+            "id": "Rutherglen and Cambuslang",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[83, -67, -65, -81, 84, 85]],
+          "type": "Polygon",
+          "properties": {
+            "q": 2,
+            "r": 5,
+            "id": "Uddingston and Bellshill",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[86, -70, -68, -84, 87, 88]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 5,
+            "id": "Hamilton, Larkhall and Stonehouse",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[89, -73, -71, -87, 90, 91]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 5,
+            "id": "Edinburgh South Western",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[92, -76, -74, -90, 93, 94]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 5,
+            "id": "Mid Fife and Glenrothes",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[95, -77, -93, 96, 97]],
+          "type": "Polygon",
+          "properties": {
+            "q": 6,
+            "r": 5,
+            "id": "Fife North East",
+            "boundary_change": "N",
+            "colour": "#003057"
+          }
+        },
+        {
+          "arcs": [[98, -82, -80, 99, 100, 101]],
+          "type": "Polygon",
+          "properties": {
+            "q": 1,
+            "r": 6,
+            "id": "Glasgow Southside",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[102, -85, -83, -99, 103, 104]],
+          "type": "Polygon",
+          "properties": {
+            "q": 2,
+            "r": 6,
+            "id": "Glasgow Central",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[105, -88, -86, -103, 106, 107]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 6,
+            "id": "Glasgow Baillieston and Shettleston",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[108, -91, -89, -106, 109, 110]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 6,
+            "id": "Airdrie",
+            "boundary_change": "N",
+            "colour": "#003057"
+          }
+        },
+        {
+          "arcs": [[111, -94, -92, -109, 112, 113]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 6,
+            "id": "Edinburgh Northern",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[114, -97, -95, -112, 115, 116]],
+          "type": "Polygon",
+          "properties": {
+            "q": 6,
+            "r": 6,
+            "id": "Dunfermline",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[117, -98, -115, 118, 119]],
+          "type": "Polygon",
+          "properties": {
+            "q": 7,
+            "r": 6,
+            "id": "Dundee City West",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[120, -101, 121, 122]],
+          "type": "Polygon",
+          "properties": {
+            "q": 0,
+            "r": 7,
+            "id": "Glasgow Cathcart and Pollok",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[123, -104, -102, -121, 124, 125]],
+          "type": "Polygon",
+          "properties": {
+            "q": 1,
+            "r": 7,
+            "id": "Glasgow Anniesland",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[126, -107, -105, -124, 127, 128]],
+          "type": "Polygon",
+          "properties": {
+            "q": 2,
+            "r": 7,
+            "id": "Glasgow Kelvin and Maryhill",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[129, -110, -108, -127, 130, 131]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 7,
+            "id": "Glasgow Easterhouse and Springburn",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[132, -113, -111, -130, 133, 134]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 7,
+            "id": "Almond Valley",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[135, -116, -114, -133, 136, 137]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 7,
+            "id": "Edinburgh North Western",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[138, -119, -117, -136, 139, 140]],
+          "type": "Polygon",
+          "properties": {
+            "q": 6,
+            "r": 7,
+            "id": "Cowdenbeath",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[141, -120, -139, 142, 143]],
+          "type": "Polygon",
+          "properties": {
+            "q": 7,
+            "r": 7,
+            "id": "Dundee City East",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[144, -125, -123, 145, 146]],
+          "type": "Polygon",
+          "properties": {
+            "q": 1,
+            "r": 8,
+            "id": "Clydebank and Milngavie",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[147, -128, -126, -145, 148, 149]],
+          "type": "Polygon",
+          "properties": {
+            "q": 2,
+            "r": 8,
+            "id": "Strathkelvin and Bearsden",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[150, -131, -129, -148, 151, 152]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 8,
+            "id": "Coatbridge and Chryston",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[153, -134, -132, -151, 154, 155]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 8,
+            "id": "Bathgate",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[156, -137, -135, -154, 157, 158]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 8,
+            "id": "Falkirk West",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[159, -140, -138, -157, 160, 161]],
+          "type": "Polygon",
+          "properties": {
+            "q": 6,
+            "r": 8,
+            "id": "Falkirk East and Linlithgow",
+            "boundary_change": "BN",
+            "colour": "#00A9E0"
+          }
+        },
+        {
+          "arcs": [[162, -143, -141, -160, 163, 164]],
+          "type": "Polygon",
+          "properties": {
+            "q": 7,
+            "r": 8,
+            "id": "Angus South",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[-144, -163, 165, 166]],
+          "type": "Polygon",
+          "properties": {
+            "q": 8,
+            "r": 8,
+            "id": "Angus North and Mearns",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[167, -149, -147, 168]],
+          "type": "Polygon",
+          "properties": {
+            "q": 1,
+            "r": 9,
+            "id": "Skye, Lochaber and Badenoch",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[169, -152, -150, -168, 170, 171]],
+          "type": "Polygon",
+          "properties": {
+            "q": 2,
+            "r": 9,
+            "id": "Dumbarton",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[172, -155, -153, -170, 173, 174]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 9,
+            "id": "Cumbernauld and Kilsyth",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[175, -158, -156, -173, 176, 177]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 9,
+            "id": "Clackmannanshire and Dunblane",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[178, -161, -159, -176, 179, 180]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 9,
+            "id": "Aberdeen Central",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[181, -164, -162, -179, 182]],
+          "type": "Polygon",
+          "properties": {
+            "q": 6,
+            "r": 9,
+            "id": "Aberdeenshire East",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[-166, -165, -182, 183]],
+          "type": "Polygon",
+          "properties": {
+            "q": 7,
+            "r": 9,
+            "id": "Aberdeen Deeside and North Kincardine",
+            "boundary_change": "N",
+            "colour": "#003057"
+          }
+        },
+        {
+          "arcs": [[184]],
+          "type": "Polygon",
+          "properties": {
+            "q": 0,
+            "r": 10,
+            "id": "Na h-Eileanan an Iar",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[185, -174, -172, 186, 187]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 10,
+            "id": "Stirling",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[188, -177, -175, -186, 189, 190]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 10,
+            "id": "Perthshire South and Kinross-shire",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[191, -180, -178, -189, 192, 193]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 10,
+            "id": "Aberdeen Donside",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[194, -190, -188, 195, 196]],
+          "type": "Polygon",
+          "properties": {
+            "q": 3,
+            "r": 11,
+            "id": "Perthshire North",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[197, -193, -191, -195, 198, 199]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 11,
+            "id": "Aberdeenshire West",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[200, -194, -198, 201, 202]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 11,
+            "id": "Banffshire and Buchan Coast",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[203, -199, -197, 204]],
+          "type": "Polygon",
+          "properties": {
+            "q": 4,
+            "r": 12,
+            "id": "Caithness, Sutherland and Ross",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[205, -202, -200, -204, 206]],
+          "type": "Polygon",
+          "properties": {
+            "q": 5,
+            "r": 12,
+            "id": "Inverness and Nairn",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[-203, -206, 207]],
+          "type": "Polygon",
+          "properties": {
+            "q": 6,
+            "r": 12,
+            "id": "Moray",
+            "boundary_change": "B",
+            "colour": "#007DBA"
+          }
+        },
+        {
+          "arcs": [[208]],
+          "type": "Polygon",
+          "properties": {
+            "q": 7,
+            "r": 13,
+            "id": "Shetland Islands",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        },
+        {
+          "arcs": [[209]],
+          "type": "Polygon",
+          "properties": {
+            "q": 9,
+            "r": 17,
+            "id": "Orkney Islands",
+            "boundary_change": "U",
+            "colour": "#500778"
+          }
+        }
+      ]
+    }
+  }
+}
